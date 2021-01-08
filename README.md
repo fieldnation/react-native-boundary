@@ -1,3 +1,7 @@
+# INFO
+
+We forked this repo because it did most of what we wanted, but had to make a few additional changes. Master branch is the true master branch from the fork, which is close to what we want but not quite. fnBoundaryV1 branch is our updated branch.
+
 
 # react-native-boundary
 
